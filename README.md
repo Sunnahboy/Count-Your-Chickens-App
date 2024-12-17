@@ -1,5 +1,6 @@
 🐔 Count Your Chickens App
 This is a basic HTML, CSS, and JavaScript project that allows users to increment a count (e.g., counting chickens) and save previous entries.
+<br>
 
 📋 Project Structure
 HTML: The structure of the app.
